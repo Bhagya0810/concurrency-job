@@ -1,4 +1,4 @@
-name: Job concurrency
+name: Job concurrency (eg)
 
 on:
   push:
